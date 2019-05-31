@@ -2,7 +2,7 @@ package com.zkj.springcloud.service.impl;
 
 import com.zkj.springcloud.dao.DeptDao;
 import com.zkj.springcloud.entities.Dept;
-import com.zkj.springcloud.service.DeptService;
+import com.zkj.springcloud.service.DeptClientService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
@@ -14,7 +14,7 @@ import java.util.List;
  * @createdate 2019-05-10 10:41
  **/
 @Service
-public class DeptServiceImpl implements DeptService {
+public class DeptClientServiceImpl implements DeptClientService {
 
     @Autowired
     private DeptDao deptDao;
