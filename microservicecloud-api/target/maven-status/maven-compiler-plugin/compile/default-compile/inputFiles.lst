@@ -1,2 +1,3 @@
 G:\microservicecloud\microservicecloud-api\src\main\java\com\zkj\springcloud\entities\Dept.java
+G:\microservicecloud\microservicecloud-api\src\main\java\com\zkj\springcloud\service\DeptClientServiceFallbackFactory.java
 G:\microservicecloud\microservicecloud-api\src\main\java\com\zkj\springcloud\service\DeptClientService.java
