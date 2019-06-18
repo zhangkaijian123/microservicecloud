@@ -9,6 +9,7 @@
         <module name="microservicecloudapi" />
         <module name="microservicecloudconsumerdept80" />
         <module name="microservicecloudconsumerdeptfeign" />
+        <module name="microservicecloudconsumerhystrixdashboard" />
         <module name="microservicecloudeureka7001" />
         <module name="microservicecloudeureka7002" />
         <module name="microservicecloudeureka7003" />
@@ -18,5 +19,8 @@
         <module name="microservicecloudproviderdepthystrix8001" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="microservicecloudproviderproducthystrix8004" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
